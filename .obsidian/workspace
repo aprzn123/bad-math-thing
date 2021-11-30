@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Examples/Average Radius of Unit Square.md",
+            "file": "Examples/Pi of Unit Square.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples/Average Radius of Unit Square.md",
+                "file": "Examples/Pi of Unit Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
   },
   "active": "a056dbb403ce8d1d",
   "lastOpenFiles": [
-    "Examples/Average Radius of Unit Square.md",
+    "Examples/Pi of Unit Square.md",
     "Definitions.md"
   ]
 }
