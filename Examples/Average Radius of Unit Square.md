@@ -1,0 +1,1 @@
+Define the center as the point distance $\sqrt 2$ from each corner. Then, given angle $\theta$, the length of the line segment starting at the center, with angle of $\theta$
