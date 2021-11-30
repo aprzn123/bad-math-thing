@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "6fb78cb3296daf69",
+    "type": "split",
+    "children": [
+      {
+        "id": "a056dbb403ce8d1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Examples/Average Radius of Unit Square.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fa8291d14aa73bed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Definitions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fa8bb1a8d29df39",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f867d67b936c59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869dc39a318ddd23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85591c37e73bb0eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a3b8c4381362923",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbd03113f6b8c568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc3cf5ef5e29272d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Definitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa8291d14aa73bed",
+  "lastOpenFiles": [
+    "Definitions.md",
+    "Examples/Average Radius of Unit Square.md"
+  ]
+}
